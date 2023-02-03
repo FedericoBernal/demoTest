@@ -1,0 +1,191 @@
+{
+    "Activities": [
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 1
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "buy items",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 0
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "I am happy to help you place your order.",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 0
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "To what state will you be shipping?",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 1
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "Oregon",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 0
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "What item are you interested in purchasing? We are focused on a few quality items.",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 1
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "Laptop Computer",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 0
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "Great choice for the on-the-go road warrior!",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 0
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "I am adding Laptop Computer to your cart.",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 0
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "Thank you for your purchase!",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 0
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "Did that answer your question?",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1674574543,
+            "From": {
+                "Id": null,
+                "Role": 1
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "yes",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null
+        }
+    ]
+}
