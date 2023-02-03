@@ -1,1 +1,1 @@
-./Executable/BotTestFramework.Console.exe test --path ${env:PATHID} --botId ${env:BOTID} --tenantId ${env:TENANTID}
+./Executable/BotTestFramework.Console.exe test --path ${env:FILEPATH} --botId ${env:BOTID} --tenantId ${env:TENANTID}
