@@ -1,6 +1,6 @@
 $result = ./Executable/BotTestFramework.Console_fix.exe test --path ${env:FILEPATH} --botId ${env:BOTID} --tenantId ${env:TENANTID}
 
-if (0 -qa $result)
+if (0 -eq $result)
 {
     Exit 100
 }
