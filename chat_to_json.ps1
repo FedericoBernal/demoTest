@@ -1,5 +1,8 @@
-$inputFolder = ${INPUT}
-$outputFolder = ${OUTPUT}
+$inputFolder = ${env:INPUT}
+$outputFolder = ${env:OUTPUT}
+
+Write-Host $inputFolder
+Write-Host $outputFolder
 
 $chatFiles = Get-ChildItem $inputFolder
 
