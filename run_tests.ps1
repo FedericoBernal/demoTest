@@ -1,1 +1,1 @@
-.\Executable\BotTestFramework.Console_fix.exe test --path $(env:OUTPUT) --botId $(env:BOTID) --tenantId $(env:TENANTID) --verbose
+.\Executable\BotTestFramework.Console_fix.exe test --path ${env:OUTPUT} --botId ${env:BOTID} --tenantId ${env:TENANTID} --verbose
