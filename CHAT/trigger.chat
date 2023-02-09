@@ -1,0 +1,5 @@
+user: store hours
+bot: <([\\s\\S] *?)>
+<EOC>
+user: store location
+bot: <([\\s\\S] *?)>

@@ -1,0 +1,7 @@
+user: store hours
+bot: I'm happy to help with store hours.
+bot: All our stores are open from 9AM to 19PM.
+<EOC>
+user: store location
+bot: <([\\s\\S] *?)>
+bot: <([\\s\\S] *?)>

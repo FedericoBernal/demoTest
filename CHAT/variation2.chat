@@ -1,0 +1,6 @@
+user: hello bot
+bot: <(^Hello!|Hi there!|Good morning!|Whats up!$)>
+bot: How can I help you?
+bot: Do you want to check the weather for tomorrow?
+user: no
+bot: <(^The weather will be 35C.|Ok, let me know when you need anything else.$)>

@@ -1,0 +1,8 @@
+user: nutrients
+suggested: Buy Vitamins|Test Vitamins|Open Hours
+bot: bot: To clarify, did you mean:
+<EOC>
+user: user: nutrients
+suggested: suggested: Buy Vitamins|Test Vitamins|Open Hours
+bot: To clarify, did you mean:
+user: Buy Vitamins
