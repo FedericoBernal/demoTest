@@ -12,6 +12,6 @@ foreach ($file in $chatFiles)
     {
         $inputFile = Join-Path $inputFolder $file.Name
         $outputFile = Join-Path $outputFolder ($file.BaseName + ".json")
-        .\BotTestFramework.Console.exe convertChatFile --path $inputFile --outputFile $outputFile
+        .\Executable\BotTestFramework.Console_fix.exe convertChatFile --path $inputFile --outputFile $outputFile
     }
 }
