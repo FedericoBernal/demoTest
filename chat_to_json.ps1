@@ -13,5 +13,7 @@ foreach ($file in $chatFiles)
         $inputFile = Join-Path $inputFolder $file.Name
         $outputFile = Join-Path $outputFolder ($file.BaseName + ".json")
         .\Executable\BotTestFramework.Console_fix.exe convertChatFile --path $inputFile --outputFileOption $outputFile
+        .\Executable\BotTestFramework.Console_fix.exe test --path $outputFile --botId 53742b3a-1f04-485c-878c-eca03005a462 --tenantId " " --verbose
     }
 }
+ 
