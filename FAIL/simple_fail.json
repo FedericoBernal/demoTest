@@ -1,0 +1,58 @@
+{
+    "Activities": [
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1675428371,
+            "From": {
+                "Id": "",
+                "Role": 1
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "store hours",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null,
+            "LineNumber": 0
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1675428371,
+            "From": {
+                "Id": "",
+                "Role": 0
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "I'm happy to help with store hours.",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null,
+            "LineNumber": 0
+        },
+        {
+            "ValueType": null,
+            "Id": null,
+            "Type": "message",
+            "Timestamp": 1675428371,
+            "From": {
+                "Id": "",
+                "Role": 0
+            },
+            "ChannelId": null,
+            "Value": null,
+            "TextFormat": null,
+            "Text": "All our marketplaces are open from 9AM to 19PM.",
+            "Attachments": null,
+            "ReplyToId": null,
+            "SuggestedActions": null,
+            "LineNumber": 0
+        }
+    ]
+}
